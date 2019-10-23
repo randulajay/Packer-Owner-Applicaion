@@ -71,4 +71,4 @@ parking stock.
 - Entrance and Return interfaces
 
 #  Project poster
-![10601932_Poster](https://user-images.githubusercontent.com/35406756/67417289-0663d580-f5e6-11e9-8b3b-556f74f9e0af.jpg)
+![poster-Recovered](https://user-images.githubusercontent.com/35406756/67419912-3792d480-f5eb-11e9-8cef-1bb188d71c66.jpg)
