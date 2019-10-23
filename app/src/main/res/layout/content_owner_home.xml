@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e74c3c"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".OwnerHome"
+    tools:showIn="@layout/app_bar_owner_home">
+
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".OwnerMap" />
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:backgroundTint="#ecf0f1"
+        app:cardElevation="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+
+            android:gravity="center">
+
+            <com.github.glomadrian.materialanimatedswitch.MaterialAnimatedSwitch
+                android:id="@+id/active_switch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:ball_press_color="@color/ballPressColor"
+                app:ball_release_color="@color/ballReleaseColor"
+                app:base_press_color="@color/baseReleaseColor"
+                app:base_release_color="@color/baseReleaseColor"
+                app:icon_press="@drawable/ic_location_on"
+                app:icon_release="@drawable/ic_location_off" />
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

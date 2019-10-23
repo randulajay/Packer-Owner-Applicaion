@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/show_park_info"
+            android:icon="@drawable/ic_local_parking_black_24dp"
+            android:title="PARK INFORMATION" />
+        <item
+            android:id="@+id/nav_update_info"
+            android:icon="@drawable/ic_system_update_alt_black_24dp"
+            android:title="UPDATE USER INFORMATION" />
+        <item
+            android:id="@+id/nav_dis_photo"
+            android:icon="@drawable/ic_photo_black"
+            android:title="UPDATE PARK INFORMATION" />
+        <item
+            android:id="@+id/pass_change"
+            android:icon="@drawable/ic_autorenew_black_24dp"
+            android:title="CHANGE PASSWORD" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_help_outline_black_24dp"
+            android:title="ABOUT" />
+        <item
+            android:id="@+id/nav_sign_out"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="LOG OUT" />
+    </group>
+</menu>
