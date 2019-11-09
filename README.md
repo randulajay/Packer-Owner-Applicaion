@@ -1,22 +1,15 @@
 #  Packer Owner Aapplication
 
->Mobile phones revolutionized the modern world by using combined services that have
-gone outside far away from just getting a call and sending a message. From recent years,
-Android smartphone usage is hugely increasing than before.
-Traffic clog brought about by vehicles is a disturbing issue at a worldwide scale and it has
-been developing exponentially. The vehicle parking issue is a noteworthy giver and has been
-yet a noteworthy issue with limited parking spots in urban areas. Looking for a parking spot
-is a daily practice (and regularly baffling) action for some individuals in urban communities
-around the globe. This pursuit consumes around one million barrels of the world's oil each
-day. These issues will deteriorate as the worldwide populace keeps on urbanizing without a
-very much arranged, comfort-driven retreat from the vehicle.
-And another hand the world is going with the globalization the world is grown fastest than
-before because of that increase the rate of jobless peoples also in Sri Lanka most of the
-woman shop their professional career after the marriage and worked as a housewife.
-Somehow if they had a small business, they could earn money while working as a house
-housewife. And a country like Sri Lanka people is lack of using public transportation System.
-They like to travel in their own vehicle 
+>Mobile phones revolutionized the modern world by using combined services that have gone outside far away from just getting a call and sending a message. From recent years, Android smartphone usage is hugely increasing than before. Traffic clog caused
+about by vehicles is a worldwide problem and it has been growing faster. The parking issue is an extraordinary issue with limited parking spots in urban areas. Looking for a parking spot is a daily habit for some individuals in public communities around the globe.  These issues will deteriorate as the worldwide populace keeps on urbanizing without a very much planned, comfort-driven retreat from the vehicle. And another hand the world is going with the globalization the world is grown fastest than before because of that increase the rate of unemployment. In Sri Lanka, Most of the woman stop their professional career after the marriage and worked as a housewife. If they had a small business, they could earn money while working as a house housewife. And a country like Sri Lanka people is lack of using public transportation System. They like to travel in their vehicle.
 
+>Considering all situations, I'm introduced parking solution considering the unemployment and the parking problem. The system is divided into two parts,
+
+ 1. Packer (Driver)
+ 2. Car park owner (Park Owner) 
+
+ >People want to find a nearest, safeties and the cheapest parking option. First of all, they consider the safety of the vehicle  If the vehicle is damaged, they have to spend money on that. Because of that private parking is more important. Apart from that, the application gives guidance to the driver to find restaurants, Supermarkets gas stations, repair centres and hospitals near to the driver's current location. And By clicking safety parking pins on the map driver can see details of the car park and they can make a payment to the selected safety car park by using Pay-pal. Owner app is for the people who like to earing through rent their car park for several hours. By using this application, they have full control of their car park. the can upload photos and they are fully free to decide hour parking rate. This application converts their car park to an earning point. This is not only an earning point and also generate social benefits like help others to park their vehicle safely and help people to protect their vehicle. 
+                 
 ##  Genaral overview of the programme
 
 ![park](https://user-images.githubusercontent.com/35406756/67417355-2a271b80-f5e6-11e9-9cc9-f59bf7ec17f9.png)
